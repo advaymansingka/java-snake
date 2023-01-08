@@ -1,2 +1,2 @@
-# udemy-java-intro
-Introduction to Java free course on Udemy
+# java snake
+followed snake tutorial to brush up java
